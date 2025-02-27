@@ -1,0 +1,10 @@
+2025-02-28 01:03:50,323 - INFO - Loaded data/algorule/algorule_12012025.json
+2025-02-28 01:03:50,325 - INFO - Loaded data/orderbook/orderbook.json
+2025-02-28 01:03:50,336 - INFO - Loaded data/tradebook/tradebook.json
+2025-02-28 01:03:50,416 - INFO - Connecting to WebSocket: ws://192.168.173.244:1234
+2025-02-28 01:04:00,798 - ERROR - Connection failed. Retry 1/3
+2025-02-28 01:04:05,800 - INFO - Connecting to WebSocket: ws://192.168.173.244:1234
+2025-02-28 01:04:15,800 - ERROR - Connection failed. Retry 2/3
+2025-02-28 01:04:20,801 - INFO - Connecting to WebSocket: ws://192.168.173.244:1234
+2025-02-28 01:04:30,802 - ERROR - Connection failed. Retry 3/3
+2025-02-28 01:04:30,802 - CRITICAL - Max retries reached. Exiting.
