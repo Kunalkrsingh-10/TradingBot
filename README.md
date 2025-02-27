@@ -21,5 +21,5 @@ TradingBot is a Python-based algorithmic trading tool that connects to a WebSock
 
 1. **Clone the Repository** (if hosted, otherwise skip):
    ```bash
-   git clone https://github.com/yourusername/tradingbot.git
+   git clone https://github.com/Kunalkrsingh-10/tradingbot.git
    cd tradingbot
